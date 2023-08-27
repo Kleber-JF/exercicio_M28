@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 600px;
+    width: 100%;
+    margin: 200px auto;
+    text-align: center;
+    background-color: #8cc0ee;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+}
+
+.container-resultado {
+   margin: auto;
+}
+.resultado {
+    margin: auto;
+}
